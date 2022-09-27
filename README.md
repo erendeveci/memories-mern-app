@@ -1,6 +1,7 @@
 # Memories Mern Stack Application
 
-Share your memories
+Share your memories <br/>
+
 Inspired by JavaScript Mastery youtube channel
 
 <a href="https://memories-app-red.vercel.app/">Memories</a>
