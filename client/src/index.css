@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fileBase input[type="file"]::-webkit-file-upload-button {
+  @apply bg-white text-black p-2 text-sm rounded-md w-[90px] border-[1px];
+}
+
+ 
